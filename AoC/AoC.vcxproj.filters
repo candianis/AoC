@@ -15,8 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AoC.cpp">
+    <ClCompile Include="Application.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="2015\Day1\inputText.txt" />
   </ItemGroup>
 </Project>
