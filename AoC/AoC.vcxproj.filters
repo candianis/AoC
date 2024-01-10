@@ -18,8 +18,24 @@
     <ClCompile Include="Application.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Swap\swap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort\sort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="2015\Day1\inputText.txt" />
+    <Text Include="2015\Day2\puzzleInput.txt" />
+    <Text Include="2015\Day3\puzzleInput.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Swap\swap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sort\sort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
